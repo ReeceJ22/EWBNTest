@@ -1,2 +1,4 @@
 This is a group collaboration text document.
-This an edit
+This
+an
+edit
